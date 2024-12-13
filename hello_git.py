@@ -5,7 +5,7 @@ print('Hello Git')
 print('Indexing - it is impotant')
 print('13.12.2024')
 print('Create new branch testing')
-print('master')
+print('master ')
 
 for num in range(10):
         print(num,end=' ')
